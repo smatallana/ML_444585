@@ -1,0 +1,12 @@
+,type,count,missing,mean,std,min,25%,50%,75%,max
+SeriousDlqin2yrs,int64,150000.0,0.0,0.07,0.25,0.0,0.0,0.0,0.0,1.0
+RevolvingUtilizationOfUnsecuredLines,float64,150000.0,0.0,6.05,249.76,0.0,0.03,0.15,0.56,50708.0
+age,int64,150000.0,0.0,52.3,14.77,0.0,41.0,52.0,63.0,109.0
+NumberOfTime30-59DaysPastDueNotWorse,int64,150000.0,0.0,0.42,4.19,0.0,0.0,0.0,0.0,98.0
+DebtRatio,float64,150000.0,0.0,353.01,2037.82,0.0,0.18,0.37,0.87,329664.0
+MonthlyIncome,float64,120269.0,29731.0,6670.22,14384.67,0.0,3400.0,5400.0,8249.0,3008750.0
+NumberOfOpenCreditLinesAndLoans,int64,150000.0,0.0,8.45,5.15,0.0,5.0,8.0,11.0,58.0
+NumberOfTimes90DaysLate,int64,150000.0,0.0,0.27,4.17,0.0,0.0,0.0,0.0,98.0
+NumberRealEstateLoansOrLines,int64,150000.0,0.0,1.02,1.13,0.0,0.0,1.0,2.0,54.0
+NumberOfTime60-89DaysPastDueNotWorse,int64,150000.0,0.0,0.24,4.16,0.0,0.0,0.0,0.0,98.0
+NumberOfDependents,float64,146076.0,3924.0,0.76,1.12,0.0,0.0,0.0,1.0,20.0
